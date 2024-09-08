@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me:
-I am a student currently pursing a degree in Computer Science.
+I am an undergrad student currently pursing a degree in Computer Science.
 
 
 # 💻 Tech Stack:
