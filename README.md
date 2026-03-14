@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # About Me:
 I am an undergrad student currently pursing a degree in Computer Science at the University of Notre Dame.
 
-## Collaborated Projects
+## Projects
 - [Race and College](https://github.com/DomBull/RaceAndCollege) - This project analyzes the impact of race on college admissions in the United States, leveraging data from the National Center for Education Statistics and undergraduate admissions data from 42 public institutions (2005-2007). Using Python, HTML, and Plotly Express, we visualized key metrics such as SAT/ACT scores, GPA by race, and state-level enrollment breakdowns (2015-2016 vs. 2020-2021). While race shows some correlation with admission outcomes, our analysis highlights the complexity of admissions decisions, influenced by multiple factors beyond race.
 
 # 💻 Tech Stack:
