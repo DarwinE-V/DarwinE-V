@@ -23,7 +23,7 @@ I am an undergrad student currently pursing a degree in Computer Science at the 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 # 📊 Stats
 
-![Top Languages](https://github-readme-stats-private-rho-six.vercel.app/api/top-langs/?username=DarwinE-V&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=467)
+![Top Languages](https://github-readme-stats-private-rho-six.vercel.app/api/top-langs/?username=DarwinE-V&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=467&exclude_repo=github-readme-stats-private)
 <!--![](https://github-readme-stats.vercel.app/api?username=DarwinE-V&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DarwinE-V&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinE-V&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/> 
